@@ -1,3 +1,4 @@
+#do not use math vairable it is a keyword
 math =(1,8,45,65,45,2)
 print("The original tuple is : " + str(math))
 res = sum(list(math))
